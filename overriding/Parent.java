@@ -16,3 +16,4 @@ public class Parent {
 
 //this process is called method overriding.
 //for this to happen there should be relation between parent and child class.
+//abstract class cannot be instantiated which means we cannot create object of abstract class

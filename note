@@ -22,3 +22,11 @@ method have two types
     Set can be obtained through following classes
     1) Hashset
     2)Sorted Set
+
+
+
+
+comparable
+and
+comparator
+are custom sorting logic.

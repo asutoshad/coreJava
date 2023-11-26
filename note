@@ -1,0 +1,24 @@
+Collection
+=> method it represents a gourp of objects as single unit.
+method have two types
+1. List
+2. Set
+
+1. List
+    a) Index collection [0,1,2]
+    b) Order is preserved
+    c) duplicates are allowed
+
+    List Can be obtained through following classes
+    1) Array List
+    2) Linked List
+    3) Vector
+
+2. Set
+    a) Not index collection
+    b) Order not preserved
+    3) Duplicates are now allowed
+
+    Set can be obtained through following classes
+    1) Hashset
+    2)Sorted Set

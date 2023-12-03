@@ -30,3 +30,6 @@ comparable
 and
 comparator
 are custom sorting logic.
+
+
+object class is top most parent class of all java class.
